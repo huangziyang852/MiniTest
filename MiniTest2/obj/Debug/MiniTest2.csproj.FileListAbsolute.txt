@@ -1,7 +1,0 @@
-D:\Code\C#\MiniTest\MiniTest2\bin\Debug\MiniTest2.exe.config
-D:\Code\C#\MiniTest\MiniTest2\bin\Debug\MiniTest2.exe
-D:\Code\C#\MiniTest\MiniTest2\bin\Debug\MiniTest2.pdb
-D:\Code\C#\MiniTest\MiniTest2\obj\Debug\MiniTest2.csprojAssemblyReference.cache
-D:\Code\C#\MiniTest\MiniTest2\obj\Debug\MiniTest2.csproj.CoreCompileInputs.cache
-D:\Code\C#\MiniTest\MiniTest2\obj\Debug\MiniTest2.exe
-D:\Code\C#\MiniTest\MiniTest2\obj\Debug\MiniTest2.pdb

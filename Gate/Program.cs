@@ -63,7 +63,7 @@ namespace Gate
                 Console.WriteLine("invalid");
             }
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
