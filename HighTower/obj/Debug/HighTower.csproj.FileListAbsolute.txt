@@ -1,0 +1,7 @@
+D:\Code\C#\MiniTest\HighTower\bin\Debug\HighTower.exe.config
+D:\Code\C#\MiniTest\HighTower\bin\Debug\HighTower.exe
+D:\Code\C#\MiniTest\HighTower\bin\Debug\HighTower.pdb
+D:\Code\C#\MiniTest\HighTower\obj\Debug\HighTower.csprojAssemblyReference.cache
+D:\Code\C#\MiniTest\HighTower\obj\Debug\HighTower.csproj.CoreCompileInputs.cache
+D:\Code\C#\MiniTest\HighTower\obj\Debug\HighTower.exe
+D:\Code\C#\MiniTest\HighTower\obj\Debug\HighTower.pdb

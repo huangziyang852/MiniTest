@@ -1,0 +1,7 @@
+D:\Code\C#\MiniTest\Gate\bin\Debug\Gate.exe.config
+D:\Code\C#\MiniTest\Gate\bin\Debug\Gate.exe
+D:\Code\C#\MiniTest\Gate\bin\Debug\Gate.pdb
+D:\Code\C#\MiniTest\Gate\obj\Debug\Gate.csprojAssemblyReference.cache
+D:\Code\C#\MiniTest\Gate\obj\Debug\Gate.csproj.CoreCompileInputs.cache
+D:\Code\C#\MiniTest\Gate\obj\Debug\Gate.exe
+D:\Code\C#\MiniTest\Gate\obj\Debug\Gate.pdb
